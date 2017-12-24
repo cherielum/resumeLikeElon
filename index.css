@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding:0;
+    margin-top: 10px;
+    font-family: arial;
+   
+}
+
+.container {
+    margin: 0;
+    height: 900px;
+  
+}
+
+hr {
+    display: block; 
+    height: 1px; 
+    border: 0; 
+    border-top: 1px solid rgb(233, 199, 4);
+    margin: 1em 0; 
+    padding: 0px; 
+}
+
+.box{
+	width:26px;
+    height:51px;
+    
+}
+ 
+.yellow{
+	background:rgb(233, 199, 4);
+}
+
+.blue {
+    background: rgb(36, 34, 33); 
+}
+
+#cherie{
+    display: inline;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: 30px;
+    font-size: 45px;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+
+}
+
+.left-column {
+    width: 50%;
+}
+
+#nav-paragraph{
+    margin-left: 30px;
+    padding-left: 0px;
+    padding-top: 20px;
+    float: left;
+   
+}
+
+.nav-right p {
+    text-align: right;
+    padding-right: 100px;
+    margin: 15px;
+}
+
+.group1{
+    margin-left: -15px;
+}
+
+.titles, .description{
+    margin-left: 15px;
+}
+
+.titles1{
+    margin-top: 10px;
+    margin-left: 32px;
+    width: 210px;
+}
+
+#dates1{
+    font-size: 15px;
+    margin-bottom: -10px;
+    color: rgb(233, 199, 4);
+}
+
+#job1{
+    margin-top: -10px;
+}
+
+#school3{
+    margin-top: -10px;
+    width: 100vh;
+}
+
+.accomplishments{
+    margin-left: 15px;
+    color: rgb(233, 199, 4);
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: -1px;
+}
+
+.rightColumn{
+    padding-left: 60px;
+}
+
+/*for the progress bars*/
+.progress{
+    margin: 0px;
+    margin-bottom: none; 
+    overflow: visible;
+    background-color: none;
+    border-radius: none;
+    box-shadow: none;
+    background-color: transparent;
+    
+}
+
+table .progress {
+    margin-bottom: 0;
+}
+
+.progress-bar {
+    border-radius: 4px;
+}
+
+.progress-bar-warning{
+   margin-left: 130px;
+   margin-top: -15px;
+}
+
+.skills{
+    margin-top: 15px;
+}
